@@ -1,5 +1,4 @@
 metrics.pkl
-evaluation.py
 __pycache__/characteristic.cpython-310.pyc
 __pycache__/lsh.cpython-310.pyc
 __pycache__/minhash.cpython-310.pyc
